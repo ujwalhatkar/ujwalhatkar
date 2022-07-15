@@ -3,11 +3,11 @@
 
 - 💬 Ask me about **data analysis, machine learning, statistics, Tableau, SQL queries**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ujwal-hatkar-92b89829/**
+- 📫 How to reach me **https://www.linkedin.com/in/ujwal-hatkar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ujwalhatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwalhatkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ujwal-hatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwal-hatkar" height="30" width="40" /></a>
 <a href="https://kaggle.com/ujwalhatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ujwalhatkar" height="30" width="40" /></a>
 </p>
 
