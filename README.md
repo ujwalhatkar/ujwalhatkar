@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujwal Hatkar</h1>
 <h3 align="center">Skilled data analyst with over 6+ years of experience in analyzing and interpreting data for trends and patterns with a clear objective in mind, helping cross functional teams making data driven decisions.</h3>
-<img align="right" alt="Coding" width="400" src="<iframe src="https://gifer.com/embed/74pZ" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>"
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/74pZ.gif">
 
 
 - 💬 Ask me about **data analysis, machine learning, statistics, Tableau, SQL queries**
