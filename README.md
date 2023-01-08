@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujwal Hatkar</h1>
-<h3 align="center">Skilled data analyst with over 6+ years of experience in analyzing and interpreting data for trends and patterns with a clear objective in mind, helping cross functional teams making data driven decisions.</h3>
+<h3 align="center">Skilled data analyst with over 7+ years of experience in analyzing and interpreting data for trends and patterns with a clear objective in mind, helping cross functional teams making data driven decisions.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/52/b7/36/52b736f2c6e739118e5b9a32a21434ea.gif">
 
 
